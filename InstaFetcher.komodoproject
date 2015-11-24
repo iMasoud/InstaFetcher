@@ -2,5 +2,6 @@
 <!-- Komodo Project File - DO NOT EDIT -->
 <project id="20b061ce-9e13-43b4-b0a8-6eeb41d79d77" kpf_version="5" name="InstaFetcher.komodoproject">
 <preference-set idref="20b061ce-9e13-43b4-b0a8-6eeb41d79d77" id="project" preftype="project">
+  <long id="prefs_version">1</long>
 </preference-set>
 </project>

@@ -1,0 +1,26 @@
+{
+  "name": "InstaFetcher",
+  "version": "0.0.1",
+  "description": "Fetches photos and like numbers of each photo from an specific instagram account",
+  "main": "app.js",
+  "dependencies": {
+    "instagram-node-lib": "~0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodejs app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iMasoud/InstaFetcher.git"
+  },
+  "keywords": [
+    "instagram",
+    "nodejs"
+  ],
+  "author": "Masoud Alemi",
+  "license": "GPL-3",
+  "bugs": {
+    "url": "https://github.com/iMasoud/InstaFetcher/issues"
+  }
+}
